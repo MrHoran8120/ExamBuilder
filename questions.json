@@ -1,0 +1,77 @@
+[
+    {
+      "question": "Which of the following are components of an expert system? (Select all that apply)",
+      "options": [
+        "Inference engine",
+        "Knowledge base",
+        "User interface",
+        "Hard disk drive"
+      ],
+      "answers": [
+        "Inference engine",
+        "Knowledge base",
+        "User interface"
+      ]
+    },
+    {
+      "question": "Which are valid reasons for using data visualisations in enterprise computing? (Select all that apply)",
+      "options": [
+        "To simplify complex datasets",
+        "To convert data into binary",
+        "To highlight significant trends",
+        "To communicate insights clearly",
+        "To bypass security protocols"
+      ],
+      "answers": [
+        "To simplify complex datasets",
+        "To highlight significant trends",
+        "To communicate insights clearly"
+      ]
+    },
+    {
+      "question": "Which technologies are commonly used in intelligent systems for human interaction? (Select all that apply)",
+      "options": [
+        "Voice recognition",
+        "Gesture control",
+        "Haptic feedback",
+        "Heat sinks",
+        "Wallpaper resolution",
+        "Laser printers"
+      ],
+      "answers": [
+        "Voice recognition",
+        "Gesture control",
+        "Haptic feedback"
+      ]
+    },
+    {
+      "question": "Which factors contribute to improvements in data visualisation capabilities? (Select all that apply)",
+      "options": [
+        "Increased processing power",
+        "Larger storage capacity",
+        "Rounded chart corners",
+        "Faster communication media",
+        "File name length"
+      ],
+      "answers": [
+        "Increased processing power",
+        "Larger storage capacity",
+        "Faster communication media"
+      ]
+    },
+    {
+      "question": "Which of the following are examples of semi-structured decision-making scenarios suitable for DSS? (Select all that apply)",
+      "options": [
+        "Choosing a supplier based on multiple criteria",
+        "Scheduling staff rosters",
+        "Evaluating a new product launch strategy",
+        "Changing a printer cartridge"
+      ],
+      "answers": [
+        "Choosing a supplier based on multiple criteria",
+        "Scheduling staff rosters",
+        "Evaluating a new product launch strategy"
+      ]
+    }
+  ]
+  
